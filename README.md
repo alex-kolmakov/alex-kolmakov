@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4F72,100:1ABC9C&height=200&section=header&text=Aleksandr%20Kolmakov&fontSize=46&fontColor=white&animation=fadeIn&fontAlignY=50" width="100%">
 
-<h3 align="center">Senior Data Engineer &amp; Backend Developer &nbsp;·&nbsp; Porto, Portugal</h3>
+<h3 align="center">Senior Data Engineer &amp; Backend Developer &nbsp;</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/aleksandr-kolmakov">
