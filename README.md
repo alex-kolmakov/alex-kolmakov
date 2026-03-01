@@ -7,9 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/7%2B%20years-Data%20%26%20Backend-1ABC9C?style=flat-square">
-  &nbsp;
-  <img src="https://img.shields.io/badge/GCP%20%7C%20AWS%20%7C%20K8s-certified-4285F4?style=flat-square">
+  <img src="https://img.shields.io/badge/8%2B%20years-Data%20%26%20Backend-1ABC9C?style=flat-square">
 </p>
 
 <br>
