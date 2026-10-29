@@ -2,14 +2,6 @@
 
 <h3 align="center">Senior Data Engineer &amp; Backend &amp; AI Engineer &nbsp;</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/aleksandr-kolmakov">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/10%2B%20years-Engineering%20%26%20?style=flat-square">
-</p>
-
 <br>
 
 <p align="center">
