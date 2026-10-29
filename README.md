@@ -21,7 +21,6 @@
 
 ## 🌊 Ocean Open-Source
 
-Some of the marine projects:
 
 | Project | What it is |
 |---|---|
