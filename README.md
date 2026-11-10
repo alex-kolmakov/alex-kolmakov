@@ -17,8 +17,8 @@
 | Project | What it is |
 |---|---|
 | 🦭 [monk-seal-modelling](https://github.com/alex-kolmakov/monk-seal-modelling) | Conservation help with *Monachus monachus* in Madeira, driven by real Copernicus Marine oceanographic data |
-| 🐠 [divesite-species-analytics](https://github.com/alex-kolmakov/divesite-species-analytics) | 162M+ OBIS records + 7 datasets → full-stack platform mapping species to 3,400+ dive sites |
-| 🤿 [diveroast](https://github.com/alex-kolmakov/diveroast) | Conversational AI agent that analyses SCUBA dive logs — RAG over DAN safety data, MCP server, Cloud Run |
+| 🐠 [Dive Diversity](https://divediversity.app) · [repo](https://github.com/alex-kolmakov/divesite-species-analytics) | See what marine life lives at 13,500+ dive sites, and where to dive to find a species. OBIS + GBIF + WoRMS + IUCN through dbt/BigQuery |
+| 🤿 [DiveRoast](https://diveroast.app) · [repo](https://github.com/alex-kolmakov/diveroast) | Upload a dive log and get your diving roasted, backed by DAN safety research. Gemini agent with RAG over DAN, plus an MCP server |
 
 > Open to collaborating with marine researchers, conservation organizations, or anyone building open-source ocean tooling.
 
