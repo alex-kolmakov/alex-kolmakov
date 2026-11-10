@@ -16,7 +16,7 @@
 
 | Project | What it is |
 |---|---|
-| 🦭 [monk-seal-modelling](https://github.com/alex-kolmakov/monk-seal-modelling) | Conservation help with *Monachus monachus* in Madeira, driven by real Copernicus Marine oceanographic data |
+| 🦭 [Seal of Approval](https://github.com/alex-kolmakov/seal-of-approval) | A Copernicus Marine cave-visit forecast for the Madeira monk seal (*Monachus monachus*), plus the agent-based model behind it. Copernicus Marine Service Hackathon 2026 winner |
 | 🐠 [Dive Diversity](https://divediversity.app) · [repo](https://github.com/alex-kolmakov/divesite-species-analytics) | See what marine life lives at 13,500+ dive sites, and where to dive to find a species. OBIS + GBIF + WoRMS + IUCN through dbt/BigQuery |
 | 🤿 [DiveRoast](https://diveroast.app) · [repo](https://github.com/alex-kolmakov/diveroast) | Upload a dive log and get your diving roasted, backed by DAN safety research. Gemini agent with RAG over DAN, plus an MCP server |
 
